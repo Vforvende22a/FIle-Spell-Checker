@@ -1,4 +1,4 @@
-# Homework 4: Trie-Based Spell Checker
+#Trie-Based Spell Checker
 
 This project implements a spell checker using a [prefix tree (Trie)](https://en.wikipedia.org/wiki/Trie). The program processes three text files to build a dictionary, filter out words, and verify a text file's words against the dictionary.
 
